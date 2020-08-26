@@ -25,6 +25,7 @@ pip install fastrand
 conda install scikit-learn
 cd src/
 ````
+### For instructions regarding data, please check [````data````](https://github.com/pcy1302/asp2vec/tree/master/data) directory
 
 # Execute asp2vec on Filmtrust dataset
 ````
