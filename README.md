@@ -6,6 +6,7 @@
 ### Paper
 - [ **Unsupervised Differentiable Multi-aspect Network Embedding (*KDD 2020*)** ](https://arxiv.org/abs/2006.04239)
   - [_**Chanyoung Park**_](http://pcy1302.github.io), Carl Yang, Qi Zhu, Donghyun Kim, Hwanjo Yu, Jiawei Han
+  - [[Video(Long)]](https://youtu.be/DOdRmz1gLdc) [[Video(Short)]](https://www.youtube.com/watch?v=OksyuNXcI_c) [[Slides]](https://pcy1302.github.io/data/KDD20_slide.pdf)
 
 ### Requirements
 - Python version: 3.6.8
