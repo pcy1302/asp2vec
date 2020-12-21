@@ -70,3 +70,17 @@ python main.py --embedder asp2vec --dataset filmtrust --isSoftmax --isGumbelSoft
 ````--isNormalSoftmax````: enable conventional softmax
 
 ````--num_aspects````: number of predefined aspects (K)
+
+### Reference
+If you find ````asp2vec```` useful in your research, please cite the following paper:
+- Park, Chanyoung; Yang, Carl; Zhu, Qi; Kim, Donghyun; Yu, Hwanjo; Han, Jiawei, "Unsupervised Differentiable Multi-aspect Network Embedding." KDD2020.
+- Bibtex
+````
+@inproceedings{lee2020multi,
+  title={Unsupervised Differentiable Multi-aspect Network Embedding},
+  author={Park, Chanyoung and Yang, Carl and Zhu, Qi and Kim, Donghyun and Yu, Hwanjo and Han, Jiawei},
+  booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={1435--1445},
+  year={2020}
+}
+````
