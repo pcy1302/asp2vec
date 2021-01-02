@@ -76,7 +76,7 @@ If you find ````asp2vec```` useful in your research, please cite the following p
 - Park, Chanyoung; Yang, Carl; Zhu, Qi; Kim, Donghyun; Yu, Hwanjo; Han, Jiawei, "Unsupervised Differentiable Multi-aspect Network Embedding." KDD2020.
 - Bibtex
 ````
-@inproceedings{lee2020multi,
+@inproceedings{par2020unsup,
   title={Unsupervised Differentiable Multi-aspect Network Embedding},
   author={Park, Chanyoung and Yang, Carl and Zhu, Qi and Kim, Donghyun and Yu, Hwanjo and Han, Jiawei},
   booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
